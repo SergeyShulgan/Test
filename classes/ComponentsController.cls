@@ -1,4 +1,9 @@
 public with sharing class ComponentsController {
+
+    public void B() {
+
+    }
+
     public Id AccountId { get; set; }
 
     public Contact getCurrentAccount(){
