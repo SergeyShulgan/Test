@@ -1,6 +1,11 @@
 public with sharing class ComponentsController {
 
+
     public void A() {
+
+    }
+
+    public void B() {
 
     }
 
